@@ -1,0 +1,301 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  object-fit: cover;
+  box-sizing: border-box;
+}
+
+.slide-content {
+  position: relative;
+}
+
+.overlay-content {
+  top: 50%;
+  left: 10%;
+  width: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.r_iconimg img {
+  width: 20% !important;
+  margin-bottom: 10px;
+}
+
+.overlay-content P {
+  font-size: 1.3rem;
+  margin: 10px 0;
+}
+
+.overlay-content h1 {
+  font-weight: 500;
+}
+
+.r_btn {
+  margin-top: 10px !important;
+  padding: 5px 25px !important;
+}
+
+.r_mainimg {
+  width: 100%;
+  object-fit: cover;
+  box-sizing: border-box;
+}
+.owl-theme .owl-dots{
+  position: absolute !important;
+  bottom: 0 !important;
+  left: 50% !important; 
+}
+.owl-theme .owl-dots .owl-dot span {
+  background-color: white !important;
+}
+.owl-theme .owl-dots .owl-dot span{
+  margin:7px !important;
+}
+.owl-theme .owl-dots .owl-dot.active{
+  outline-style: solid;
+  outline-color:white;
+  outline-width: thin;
+  border-radius: 50%;
+}
+
+/*Top Brands */
+.brand-card {
+  padding: 20px;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.brand-card:hover {
+  transform: translateY(-5px);
+}
+
+.brand-card img {
+  max-height: 50px;
+  object-fit: contain;
+  margin-bottom: 15px;
+}
+
+.brand-card p {
+  margin: 0;
+  font-size: 14px;
+  color: #777;
+}
+
+.brand-title {
+  margin-bottom: 30px;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.product-section1{
+    background-image: url(../r_img/Explore\ More.png);
+    width: 100%;
+    background-size: cover !important;
+    background-position: center;
+    text-align: center;
+    color: white; 
+    background-repeat: no-repeat;
+    background-color: #000000;
+    background-size: 45%;
+    background-position-y: 40%;
+}
+.explore-more {
+  position: relative;
+  padding: 80px 0;
+  text-align: center;
+  background: url('../r_img/Explore\ More.png') no-repeat center center;
+  background-size: 55%;
+  background-position-y: 20%;
+}
+
+.explore-more .category {
+  position: relative;
+  z-index: 1;
+}
+
+.explore-more img {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  transition: transform 0.3s ease;
+}
+
+.explore-more img:hover {
+  transform: scale(1.1);
+}
+
+.explore-more .category p {
+  margin-top: 15px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+/* Top Wear */
+.filter-accordion {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.accordion-button {
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #212529;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #fff;
+  box-shadow: none;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+  border-color: rgba(0,0,0,.125);
+}
+
+.form-check {
+  margin-bottom: 0.5rem;
+}
+
+.color-swatch {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 8px;
+  border: 1px solid #dee2e6;
+}
+
+.show-more-btn {
+  color: #0d6efd;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.875rem;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+.hidden-item {
+  display: none;
+}
+
+.rating-stars {
+  color: #F8A120;
+}
+
+.rating-stars-gray {
+  color: #B8B8B8;
+}
+
+/* Price Range Slider Custom Styling */
+.price-range-container {
+  padding: 1rem 0;
+}
+
+.form-range::-webkit-slider-thumb {
+  background: #0d6efd;
+}
+
+.form-range::-webkit-slider-runnable-track {
+  background: #dee2e6;
+}
+
+/* Mobile Optimization */
+@media (max-width: 768px) {
+  .filter-accordion {
+      max-width: 100%;
+  }
+
+  .accordion-button {
+      padding: 0.5rem 1rem;
+  }
+
+  .accordion-body {
+      padding: 0.5rem;
+  }
+}
+.r_clear{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 1px 10px;
+  font-size: 12px;
+}
+.r_border{
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 1px 10px;
+  font-size: 12px;
+  margin: 10px;
+  color:#727272;
+}
+@media (max-width: 576px) {
+  .brand-card img {
+      max-height: 40px;
+  }
+
+  .brand-title {
+      font-size: 20px;
+  }
+  
+
+.explore-more p {
+    font-size: 14px;
+}
+
+.explore-more {
+    background-size: 80%; 
+}
+}
+@media (min-width:2560px) {}
+
+@media (min-width:1440px) {}
+
+@media (max-width:1024px) {}
+
+@media (max-width: 768px) {
+  .overlay-content {
+    width: 80%;
+    left: 10%;
+    top: 50%;
+  }
+
+  .overlay-content h1 {
+    font-size: 1.3rem;
+    margin-bottom: 0;
+  }
+
+  .overlay-content P {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+
+  .r_btn {
+    margin-top: 0;
+  }
+  .explore-more{
+    background: transparent;
+  }
+}
+
+@media screen and (max-width:425px) {
+  .r_mainimg {
+    height: 300px !important;
+  }
+}
+
+@media screen and (max-width:375px) {}
+
+@media screen and (max-width:320px) {}

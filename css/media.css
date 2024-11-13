@@ -1,0 +1,2330 @@
+@media (min-width: 1440px) {
+    /* perfume */
+    .dk_perfume {
+        padding: 124px 0 90px 0;
+        background-size: 100%;
+    }
+    .dk_perfume h3 {
+        font-size: 40px;
+    }
+    .dk_perfume p {
+        font-size: 28px;
+    }
+     /****** payment page *****/
+    .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 88px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+     /* <!-- edit Profile --> */
+     .dk_pass_edit{
+        margin-left: -10.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+}
+@media(max-width:1440px){
+    /* OTP Verification */
+    .dk_otp_main {
+        /* width: 40%; */
+        margin: auto;
+    }
+    /* .dk_second_nav_sub {
+        padding: 0 20px;
+    } */
+
+    /* .dk_search_bar {
+        max-width: 500px;
+    } */
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 9%;
+        right: 34%;
+        z-index: 999;
+    }
+    .dk_watch {
+        font-size: 72px;
+        font-weight: 600;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 35%;
+        z-index: 999;
+    }
+    .product-section {
+        background-position-y: 20%;
+    }
+    .dk_women_collation{
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-color: #000000;
+        padding: 60px 0px;
+        text-align: center;
+        background-position-y: 98%;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 22%;
+        left: 32%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 23%;
+        left: 28%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 26%;
+        left: 5%;
+        text-align: center;
+    }
+    .dk_samsung3_info h2{
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 36.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 38px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    /* Cart Without Address */
+    .dk_proceed {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        text-align: center;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 13px 60px;
+        border-radius: 4px;
+    }
+     /****** payment page *****/
+     .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 88px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    .dk_net_banking_sub{
+        justify-content: center;
+        text-align: center;
+        padding-top: 30px;
+        flex-wrap: wrap;
+    }
+    .dk_sidebar {
+        display: block !important;
+    }
+}
+@media(max-width:1400px){
+    /****** payment page *****/
+    .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 62px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    /* Delivery Details */
+    .dk_pro_remove_main{
+        justify-content: start;
+    }
+    .dk_pro_remove{
+        text-align: left;
+    }
+    /* Cart With Address  */
+    .dk_move_to_wishlist_main {
+        padding-top: 0px;
+    }
+    .dk_move_to_remove{
+        display: block;
+    }
+    /* Cart With Address */
+    .dk_best_seller_cart_add {
+        position: absolute;
+        bottom: 92%;
+        left: 0%;
+    }
+    /* empty address  */
+    .dk_empty_add_add_address_sub{
+        width: 100%;
+        height: 190px;
+    }
+}   
+/* perfume */
+@media (max-width: 1440px) and (min-width: 1024px) {
+    .dk_perfume {
+        padding: 120px 0px 60px 0px;
+    }
+    .dk_perfume h3 {
+        font-size: 32px;
+    }
+    .dk_perfume p {
+        font-size: 22px;
+    }
+}
+/* perfume  */
+@media (max-width: 1024px) and (min-width: 768px) {
+    .dk_perfume {
+        padding: 100px 0px 50px 0px;
+        background-size: contain; /* Adjust background image to contain */
+    }
+    .dk_perfume h3 {
+        font-size: 28px;
+    }
+    .dk_perfume p {
+        font-size: 20px;
+    }
+}
+@media(max-width:1200px){
+    /* Cart Without Address */
+    /* .overflow-auto {
+        overflow-x: auto; 
+        overflow-y: hidden; 
+        white-space: nowrap;
+        padding: 10px;
+    }
+    
+    .overflow-auto::-webkit-scrollbar {
+        display: none;
+    }
+    .overflow-auto {
+        scrollbar-width: none; 
+    }  */
+    /* Cart Without Address */
+    .dk_proceed {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        text-align: center;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 13px 40px;
+        border-radius: 4px;
+    } 
+     /****** payment page *****/
+     .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 70px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    .dk_captcha_main {
+        display: flex;
+        padding: 0px 10px;
+    }
+    /* <!-- Search page  --> */
+    .dk_search_page{ 
+        text-align: center;
+        padding: 200px 0px 150px 0px;
+    }
+    /****8 My Profile page *** */
+    .dk_my_profile_sub {
+        /* width: 100%; */
+        display: flex;
+        background-color: white;
+        overflow: hidden;
+    }
+    .dk_profile_width{
+        width: 100% !important;
+    }
+}
+@media(max-width:1199px){
+    /* Login with Email & Mobile */
+    .dk_login_form {
+        padding-top: 56px;
+    }
+    .dk_register{
+        padding-top: 40px;
+    }
+    /* .dk_search_bar{
+        margin-right: 25px;
+    } */
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 9%;
+        right: 31%;
+        z-index: 999;
+    }
+    .dk_watch {
+        font-size: 62px;
+        font-weight: 600;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 30%;
+        z-index: 999;
+    }
+    .dk_banner3_info{
+        position: absolute;
+        top: 73%;
+        right: 35%;
+        z-index: 999;
+    }
+    .product-section {
+        background-position-y: 21%;
+    }
+    /* Best Of Electronics */
+    .dk_product-item {
+        flex: 1 1 calc(25% - 40px); /* Four items per row */
+      }
+    /* Women’s cards */
+      .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 120px;
+    }
+    .thumbnails img {
+        width: 14%;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+    /* SAMSUNG GALAXY S24 ULTRA */
+    .dk_samsung_info h2{
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 36.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 38px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 32%;
+        left: 39%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 7px 18px;
+        font-size: 14px;
+    }
+    .dk_samsung2_info h2{
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 36.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 38px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 30%;
+        left: 34%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 7px 18px;
+        font-size: 14px;
+    }
+     /* Empty Cart */
+     .dk_empty_cart{
+        text-align: center;
+        padding: 175px 0px 135px 0px;
+    }
+    /* empty_wishlist */
+    .dk_empty_wishlist{
+        text-align: center;
+        padding: 200px 0px 175px 0px;
+    }
+    /****** payment page *****/
+    .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 43px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    /* edit Profile */
+    .dk_pass_edit{
+        margin-left: -14.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+    /* empty address  */
+    .dk_empty_add_add_address_sub{
+        width: 100%;
+        height: 100%;
+    }
+}
+/* OTP Verification */
+@media (max-width: 1024px) {
+    .dk_otp_box {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        margin-right: 15px;
+    }
+    /* .dk_categories_name{
+        margin-left: 40px;
+    } */
+    .dk_continue_main{
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    /* ******* */
+    .dk_banner,
+    .dk_banner2,
+    .dk_banner3 {
+        height: 600px;
+    }
+
+    .dk_banner_info p,
+    .dk_banner2_info h2,
+    .dk_banner3_info h2 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .dk_shop_now {
+        font-size: 18px;
+        padding: 10px 40px;
+    }
+
+    .dk_banner_info {
+        bottom: 15%;
+        right: 30%;
+    }
+
+    .dk_banner2_info {
+        top: 35%;
+        right: 30%;
+    }
+
+    .dk_banner3_info {
+        top: 70%;
+        right: 35%;
+    }
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 9%;
+        right: 32%;
+        z-index: 999;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 36%;
+        z-index: 999;
+    }
+    .dk_banner3_info{
+        position: absolute;
+        top: 62%;
+        right: 38%;
+        z-index: 999;
+    }
+    .product-section {
+        background-position-y: 21%;
+    }
+    /* Best Of Electronics */
+    .dk_product-item {
+        flex: 1 1 calc(33.33% - 40px); /* Three items per row */
+    }
+    .dk_women_collation {
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-color: #000000;
+        padding: 24px 0px;
+        text-align: center;
+        background-position-y: 98%;
+    }
+    /* Women’s cards */
+    .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 115px;
+    }
+    .thumbnails img {
+        width: 15%;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+    /* perfume */
+    .dk_perfume {
+        padding: 8vw 0;
+    }
+    .dk_perfume h3 {
+        font-size: 28px;
+    }
+    .dk_perfume p {
+        font-size: 20px;
+    }
+    /* SAMSUNG GALAXY S24 ULTRA */
+    .dk_samsung_info h2{
+        font-size: 27px;
+        font-weight: 600;
+        line-height: 28.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 35%;
+        left: 38%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 7px 18px;
+        font-size: 14px;
+    }
+    .dk_samsung2_info h2{
+        font-size: 27px;
+        font-weight: 600;
+        line-height: 28.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 35%;
+        left: 35%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 7px 18px;
+        font-size: 14px;
+    }
+     /* Cart Without Address */
+     .dk_proceed {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        text-align: center;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 13px 30px;
+        border-radius: 4px;
+    } 
+     /****** payment page *****/
+     .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 43px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    /* <!-- Search page  --> */
+    .dk_search_page{ 
+        text-align: center;
+        padding: 150px 0px 100px 0px;
+    }
+    /* <!-- edit Profile --> */
+    .dk_pass_edit{
+        margin-left: -14.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+}
+@media(max-width:991px){
+    /* Login with Email & Mobile */
+    .dk_login_form{
+        padding-top: 30px;
+    }
+    .dk_login_sub h6 {
+        padding-top: 26px;
+    }
+    .dk_login_sub {
+        padding: 30px 30px 30px 30px;
+    }
+    .dk_continue {
+        padding: 7px 0px;
+    }
+    .dk_login_sub h5 {
+        padding-top: 19px;
+        padding-bottom: 12px;
+    }
+    /* reset password */
+    .dk_reset_password{
+        padding-top: 30px;
+    }
+    .dk_register{
+        padding-top: 25px;
+      }
+    .dk_login_with_email_info h4 {
+        padding-top: 25px;
+    }
+    /* .dk_categories_name{
+        margin-left: 30px;
+    } */
+    .dk_watch {
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .product-section {
+       background-image: none;
+    }
+    .product-grid {
+        justify-content: space-between;
+    }
+    /* .dk_search_bar {
+        max-width: 250px;
+    } */
+      /* Women’s cards */
+      .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 70px;
+    }  
+    /* SAMSUNG GALAXY S24 ULTRA */
+    .dk_samsung_info h2{
+        font-size: 21px;
+        font-weight: 600;
+        line-height: 19.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 35%;
+        left: 40%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 2px 15px;
+        font-size: 12px;
+    }
+    .dk_samsung2_info h2{
+        font-size: 21px;
+        font-weight: 600;
+        line-height: 19.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 35%;
+        left: 38%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 2px 15px;
+        font-size: 12px;
+    }
+    .dk_samsung3_info h2{
+        font-size: 21px;
+        font-weight: 600;
+        line-height: 19.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 28px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 34%;
+        left: 5%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3 .dk_shop_now {
+        padding: 2px 15px;
+        font-size: 12px;
+    }
+     /* Empty Cart */
+     .dk_empty_cart{
+        text-align: center;
+        padding: 150px 0px 100px 0px;
+    }
+    /* empty_wishlist */
+    .dk_empty_wishlist{
+        text-align: center;
+        padding: 150px 0px 135px 0px;
+    }
+    /* Cart Without Address */
+    .dk_proceed {
+        width: 90%;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        text-align: center;
+        color: #FFFFFF;
+        background-color: #000000;
+        border-radius: 4px;
+    } 
+    /****** payment page *****/
+    .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 60px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    /* <!-- Search page  --> */
+    .dk_search_page{ 
+        text-align: center;
+        padding: 100px 0px 80px 0px;
+    }
+    /* edit profile  */
+    .navbar-collapse{
+        position: absolute;
+        top: 50px;
+    }
+    .dk_pass_edit{
+        margin-left: -21.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+    .dk_profile_content_sub {
+       padding: 20px;
+    }
+    /* empty address */
+    .dk_empty_address {
+        width: 100% !important;
+        height: 580px;
+    }
+    .dk_save_change{
+        margin-top: 20px;
+    }
+    /* <!-- Payment Methods Cards page --> */
+    .dk_crditcard {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 0.5px solid #727272;
+        padding: 30px 20px 20px 20px;
+    }
+    /* faqs pag  */
+    .dk_faqs_accordion .label::before {
+        content: '+';
+        color: black;
+        position: absolute;
+        top: 50%;
+        right: -16px;
+        font-size: 30px;
+        transform: translateY(-50%);
+    }
+}
+@media(max-width:768px){
+     /* Login with Email & Mobile */
+      .dk_login_main_content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .dk_login_sub h4 {
+        font-size: 1.25rem;
+    }
+
+    .dk_login_with_email_info h4 {
+        font-size: 1.5rem;
+    }
+
+    .dk_login_with_email_image {
+        margin-bottom: 1.5rem;
+    }
+    /* OTP Verification */
+    .dk_otp_main {
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 30px 0;
+    }
+
+    .dk_otp_box {
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
+        margin-right: 10px;
+    }
+    /* sign_up */
+    .dk_login_with_email {
+        padding: 40px 0px;
+    }
+
+    .dk_login_sub {
+        padding: 30px 20px;
+    }
+    /* .row {
+        flex-direction: column;
+        align-items: center;
+    } */
+    /* .col-xl-5, .col-lg-6, .col-md-6 {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    } */
+    .dk_login_with_email_image img {
+        max-width: 100%;
+        height: 100%;
+    }
+    .dk_login_form {
+        padding-top: 30px;
+    }
+
+    .dk_login_with_email_info h4 {
+        padding-top: 30px;
+    }
+    .dk_logo {
+        font-size: 20px;
+    }
+    /* .dk_categories_name {
+        margin-left: 20px;
+    } */
+
+    /* .dk_search_bar {
+        width: 100%;
+        max-width: 150px;
+    } */
+
+    /* .dk_icons {
+        gap: 10px;
+    } */
+    /* edit Profile */
+    .dk_pass_edit{
+        margin-left: -12.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+
+    .dk_icon {
+        font-size: 16px;
+    }
+    /* ********* */
+    .dk_banner,
+    .dk_banner2,
+    .dk_banner3 {
+        height: 500px;
+    }
+
+    .dk_banner_info p,
+    .dk_banner2_info h2,
+    .dk_banner3_info h2 {
+        font-size: 25px;
+        line-height: 45px;
+    }
+
+    .dk_shop_now {
+        font-size: 16px;
+        padding: 8px 30px;
+    }
+
+    .dk_banner_info {
+        bottom: 10%;
+        right: 25%;
+    }
+
+    .dk_banner2_info {
+        top: 40%;
+        right: 25%;
+    }
+
+    .dk_banner3_info {
+        top: 60%;
+        right: 30%;
+    }
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 10%;
+        right: 29%;
+        z-index: 999;
+    }
+    .dk_watch {
+        font-size: 40px;
+        font-weight: 600;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 33%;
+        z-index: 999;
+    }
+    .dk_banner3_info{
+        position: absolute;
+        top: 62%;
+        right: 37%;
+        z-index: 999;
+    }
+    .dk_login_main_content{
+        position: relative;
+    }
+    .dk_from_abso{
+        position: absolute;
+        top: 2%;
+    }
+    .dk_login_with_email_image img{
+        opacity: 0.2;
+    }
+    .form-control {
+        background-color: transparent !important;
+    }
+    .dk_custom_label {
+        position: absolute;
+        top: -22px;
+        left: -1px;
+        padding: 0 5px;
+        font-size: 16px;
+        background-color: transparent;
+    }
+    .dk_continue_main{
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .dk_login_with_email_image2 img{
+        opacity: 0.2;
+    }
+    /* Best Of Electronics */
+    .dk_product-item {
+        flex: 1 1 calc(50% - 40px); /* Two items per row */
+    }
+    /* perfume */
+    .dk_perfume {
+        padding: 6vw 0;
+    }
+    .dk_perfume h3 {
+        font-size: 24px;
+    }
+    .dk_perfume p {
+        font-size: 18px;
+    }
+    /* Best Sellers */
+    .dk_best_sellers {
+        padding: 50px 0px;
+    }
+    /* Women’s cards */
+    .dk_women_card_main {
+        padding: 50px 0px;
+    }
+    /* FOOTER  */
+    /* .dk_quickcart_footer p {
+        width: 100%
+    } */
+    /* SAMSUNG GALAXY S24 ULTRA */
+    .dk_samsung_info h2{
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 19.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 13px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 29%;
+        left: 39%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 10px;
+    }
+    .dk_samsung2_info h2{
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 19.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 13px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 28%;
+        left: 37%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 10px;
+    }
+    .dk_samsung3_info h2{
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 19.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 13px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 34%;
+        left: 5%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 10px;
+    }
+     /* Empty Cart */
+     .dk_empty_cart{
+        text-align: center;
+        padding: 100px 0px 80px 0px;
+    }
+    
+    /* Women’s cards */
+    .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 20px;
+    }
+    /* empty_wishlist */
+    .dk_empty_wishlist{
+        text-align: center;
+        padding: 106px 0px 91px 0px;
+    }
+    /* Cart Without Address  */
+    .dk_order_tracking_line {
+        position: absolute;
+        top: 32%;
+        left: 2%;
+        right: 2%;
+        height: 2px;
+        background-color: #000000;
+        z-index: 0; 
+        width: 48%;
+    }
+    .dk_order_tracking_line_one{
+        position: absolute;
+        top: 32%;
+        left: 43%;
+        right: 2%;
+        height: 2px;
+        background-color: #B8B8B8;
+        z-index: 0; 
+        width: 50%;
+    }
+    .shopping_cart_sub h2 {
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 33.89px;
+        text-align: left;
+        color: rgb(0, 0, 0);
+    }
+    /* Payment  */
+    .dk_order_tracking_line_paymet{
+        position: absolute;
+        top: 32%;
+        left: 42%;
+        right: 2%;
+        height: 2px;
+        background-color: #000000;
+        z-index: 0; 
+        width: 50%;
+    }
+    /* <!-- Search page  --> */
+    .dk_search_page{ 
+        text-align: center;
+        padding: 80px 0px 60px 0px;
+    }
+    /* Cart With Address */
+    .dk_move_to_wishlist_main {
+        padding-top: 0px;
+    }
+    .dk_move_to_remove{
+        display: block;
+    }
+    .dk_sidebar {
+        display: none;
+    }
+    /* edit profile */
+    .dk_profile-content{
+        padding: 10px;
+    }
+    .dk_profile_content_sub{
+        padding: 20px 20px 20px 20px;
+    }
+    .dk_profile-form a button {
+        padding: 12px;
+        background-color: #000000;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        padding: 12px 58px;
+        text-decoration: none;
+        margin-top: 40px;
+        width: 100%;
+    }
+    /* nav */
+    .dk_account_menu_bar{
+        display: block;
+    }
+    .dk_my_profile {
+        display: block !important;
+    }
+    .dk_empty_address {
+        width: 100% !important;
+        height: 610px;
+    }
+    .dk_vertical_header{
+        display: block !important;
+    }
+    .dk_vertical_header_sidebar{
+        display: none !important;
+    }
+     /* My Order */
+     .mv_main_my_order{
+        margin-left: 0px !important;
+    }
+    .mv_main_my_order{
+        width: 100% !important;
+    }
+     /* Payment Methods Cards page */
+     .dk_no_saved_card{
+        display: none; 
+        text-align: center; 
+        font-weight: 500; 
+        padding: 20px; 
+        height: 100%; 
+        margin-top: 100px; 
+    }
+ } 
+ @media(max-width:767px){
+    .dk_login_form {
+        height: 420px;
+    }
+    .dk_register{
+        padding-top: 25px;
+      }
+    /* .dk_categories_name{
+        margin-left: 20px;
+    } */
+    /***** payment page  ****8*/
+    .dk_captcha_main {
+        display: block;
+        padding: 0px 10px;
+    }
+    .dk_caotcha_enter {
+        width: 100%;
+    }
+    .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 60px;
+        border-radius: 4px;
+        margin-top: 27px;
+        width: 92%;
+    }
+    /* edit Profile */
+    .dk_pass_edit{
+        margin-left: -8.5%;  
+        display: inline;
+        vertical-align: middle
+    } 
+    /* My Order */
+    .mv_order_product_image{
+        text-align: start !important;
+        margin-bottom: 10px;
+    }
+    .mv_order_price_track{
+        text-align: start;
+    }
+    .mv_order_price{
+        margin-bottom: 5px;
+    }
+    .mv_order_nav_tabs .mv_order_navs_button{
+        padding: 5px;
+    }
+    .mv_mobile_img{
+        padding-right: 12px !important;
+        padding-left: 12px !important;
+    }
+}
+/* signup */
+@media (max-width: 576px) {
+    .dk_login_sub {
+        padding: 20px 15px;
+    }
+
+    .dk_custom_input {
+        font-size: 14px;
+    }
+
+    .dk_continue {
+        font-size: 16px;
+    }
+
+    .dk_login_sub h6 {
+        font-size: 12px;
+    }
+    .dk_continue_main{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .dk_register{
+        padding-top: 20px;
+    }
+    /* .dk_categories_name{
+        margin-left: 20px;
+    } */
+    /* .dk_second_nav_sub{
+        display: block;
+    } */
+    /* .dk_search_bar{
+        margin: 10px 0px;
+        max-width: 100% !important;
+    } */
+    .dk_logo {
+        justify-content: space-between;
+    }
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 9%;
+        right: 21%;
+        z-index: 999;
+    }
+    .dk_watch {
+        font-size: 38px;
+        font-weight: 600;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 28%;
+        z-index: 999;
+    }
+    .dk_banner3_info{
+        position: absolute;
+        top: 62%;
+        right: 34%;
+        z-index: 999;
+    }
+    .dk_women_collation{
+        background-image: none;
+         width: 100%;
+         background-repeat: no-repeat;
+         background-size: 100%;
+         background-color: #000000;
+         padding: 55px 0px;
+         text-align: center;
+     }
+     /* Women’s cards */
+     .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 125px;
+    }
+    .thumbnails img {
+        width: 14%;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+    /* Best Sellers */
+    .dk_best_sellers {
+        padding: 40px 0px;
+    }
+    /* Women’s cards */
+    .dk_women_card_main {
+        padding: 40px 0px;
+    }
+    .dk_browsing_products:hover .thumbnails{
+        margin-bottom: 40px;
+    }
+      /* SAMSUNG GALAXY S24 ULTRA */
+      .dk_samsung_info h2{
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 16.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 26%;
+        left: 38%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung2_info h2{
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 16.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 32%;
+        left: 34%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung3_info h2{
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 16.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 9px;
+        font-weight: 500;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 34%;
+        left: 5%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+     /* Empty Cart */
+     .dk_empty_cart{
+        text-align: center;
+        padding: 80px 0px 80px 0px;
+    }
+    /* empty_wishlist */
+    .dk_empty_wishlist{
+        text-align: center;
+        padding: 80px 0px 80px 0px;
+    }
+    /* faqs page  */
+    .dk_faqs_accordion .label {
+        position: relative;
+        padding: 10px 0;
+        color: black;
+        cursor: pointer;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 19.36px;
+    }
+}
+
+@media (max-width:575px) {
+    /* Order Confirmation page  */
+    .dk_billing_pro_item_sub h2 {
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 21.78px;
+        color: #000000;
+        text-align: center;
+    }
+    .dk_billing_pro_item_sub{
+        text-align: center;
+    }
+    .dk_downlode_invoice_sub{
+        width: 100%;
+    }
+    .dk_order_confirmation h2 {
+        padding-bottom: 0px;
+    }
+    /* Delivery Details */
+    .dk_product_card_without_add {
+        box-shadow: 1px 6px 19px 0px #A4A4A433;
+        padding: 18px 20px 33px 20px !important;
+        position: relative;
+    }
+    /* Cart With Address */
+    .dk_move_to_wishlist_main {
+        padding-top: 0px;
+    }
+    .dk_move_to_remove {
+        justify-content: end;
+        display: block;
+    }
+    /* Cart With Address */
+    .dk_best_seller_cart_add {
+        position: absolute;
+        bottom: 95%;
+        left: 0%;
+    }
+    /* edit Profile */
+    .dk_pass_edit{
+        margin-left: -8.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+     /* My Order */
+     .mv_item_successfully{
+        display: block;
+        flex-direction: column;
+    }
+    /* <!-- Payment Methods Cards page --> */
+    .dk_profile_payment_methods {
+        height: 100%;
+    }
+     /* Payment Methods Cards page */
+     .dk_no_saved_card{
+        display: none; 
+        text-align: center; 
+        font-weight: 500; 
+        padding: 20px; 
+        height: 100%; 
+        margin-top: 80px; 
+    }
+    /* privacy security page  */
+    .dk_privacy_security h3 {
+        padding-bottom: 10px;
+        font-size: 28px;
+    }
+    .dk_privacy_security_sub h4 {
+        padding-bottom: 15px;
+    }
+}
+    /* OTP Verification */
+@media (max-width: 480px) {
+    .dk_register{
+        padding-top: 10px;
+      }
+    .dk_otp_main {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .dk_otp_box {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+        margin-bottom: 10px;
+        margin-right: 0;
+    }
+    /* verify with mobile */
+    .dk_otp_main {
+        padding: 30px 0;
+    }
+    /* home page */
+    /* .dk_dropdown{
+        padding-left: 10px;
+    } */
+     /* ******************* */
+    
+    /* .dk_categories_name{
+        margin-left: 10px;
+    } */
+    /* .dk_second_nav_sub {
+        flex-direction: column;
+        align-items: flex-start;
+    } */
+
+    .dk_logo {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    /* .dk_categories_name {
+        margin-left: 0;
+    } */
+
+    /* .dk_search_bar {
+        width: 100%;
+        max-width: 100%;
+    } */
+
+    /* .dk_icons {
+        flex-direction: row;
+        width: 100%;
+        margin-top: 10px;
+    } */
+
+    .dk_icon {
+        font-size: 14px;
+    }
+
+    /* .dk_categories_name .btn {
+        width: 100%;
+    } */
+    .dk_logo {
+        justify-content: space-between;
+    }
+    /* ******* */
+    .dk_banner,
+    .dk_banner2,
+    .dk_banner3 {
+        height: 400px;
+    }
+
+    .dk_banner_info p,
+    .dk_banner2_info h2,
+    .dk_banner3_info h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .dk_shop_now {
+        font-size: 14px;
+        padding: 6px 20px;
+    }
+
+    .dk_banner_info {
+        bottom: 8%;
+        right: 20%;
+    }
+
+    .dk_banner2_info {
+        top: 45%;
+        right: 20%;
+    }
+
+    .dk_banner3_info {
+        top: 55%;
+        right: 25%;
+    }
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 12%;
+        right: 25%;
+        z-index: 999;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 28%;
+        z-index: 999;
+    }
+    .dk_banner3_info{
+        position: absolute;
+        top: 62%;
+        right: 31%;
+        z-index: 999;
+    }
+    .product-grid {
+        justify-content: center;
+      }
+    .dk_login_with_email_image2 img{
+        opacity: 0.2;
+        height: 650px;
+    }  
+    /* Best Of Electronics */
+    .dk_product-item {
+        flex: 1 1 calc(100% - 40px); /* One item per row */
+    }
+    .dk_women_collation h2 {
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 48.25px;
+        letter-spacing: 0.03em;
+        color: #FAFAFA;
+    }
+    .dk_women_collation p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 21px;
+        color: #FAFAFA;
+    }
+    /* Women’s cards */
+    .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 88px;
+    }
+    .thumbnails img {
+        width: 14%;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+    /* perfume */
+    .dk_perfume {
+        padding: 4vw 0;
+    }
+    .dk_perfume h3 {
+        font-size: 20px;
+    }
+    .dk_perfume p {
+        font-size: 16px;
+    }
+     /* SAMSUNG GALAXY S24 ULTRA */
+     .dk_samsung_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 15.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 18%;
+        left: 38%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung2_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 15.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 22%;
+        left: 31%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung3_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 15.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 9px;
+        font-weight: 500;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 23%;
+        left: 7%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    /********* payment page *******/
+    .dk_payment_category {
+        padding: 30px 0px 48px;
+        box-shadow: 1px 6px 19px 0px #A4A4A433;
+        border-radius: 4px;
+    }
+    /* .Order Confirmation page */
+    .dk_order_date_mathode {
+        border-bottom: 0.5px solid #d3d3d3;
+        display: block;
+        justify-content: space-between;
+        padding: 16px 30px;
+        text-align:center;
+    }
+    .dk_billing_address1 {
+        width: 100%;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .dk_billing_address2 {
+        width: 100%;
+    }
+    
+    .dk_billing_address {
+        display: block;
+        padding: 20px 30px 16px 30px;
+        border-bottom: 0.5px solid #d2d2d2;
+        text-align: center;
+    }
+     /* edit Profile */
+     .dk_pass_edit{
+        margin-left: -11.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+     /* Payment Methods Cards page */
+     .dk_no_saved_card{
+        display: none; 
+        text-align: center; 
+        font-weight: 500; 
+        padding: 20px; 
+        height: 100%; 
+        margin-top: 60px; 
+    }
+    /* deactive page model  */
+    .dk_deactive_model {
+        padding: 20px 10px 0px 10px !important;
+    }
+    .dk_size_box .btn {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:425px){
+    /* Login with Email & Mobile */
+    .dk_login_with_email {
+        padding: 50px 0px;
+    }
+    .dk_login_form{
+        padding-top: 10px;
+    }
+    /* home page */
+    /* .dk_location{
+        font-size: 10px;
+    } */
+    /* .dk_dropdown{
+        padding-left: 0px;
+    } */
+    /* .dk_country{
+        padding-left: 0px;
+    } */
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 10%;
+        right: 22%;
+        z-index: 999;
+    }
+    .dk_watch {
+        font-size: 33px;
+        font-weight: 600;
+    }
+    .dk_banner3_info{
+        position: absolute;
+        top: 62%;
+        right: 31%;
+        z-index: 999;
+    }
+    /* Women’s cards */
+    .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 60px;
+    }
+    .thumbnails img {
+        width: 17%;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+    /* SAMSUNG GALAXY S24 ULTRA */
+    .dk_samsung_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 13.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 18%;
+        left: 37%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung2_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 13.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 22%;
+        left: 28%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung3_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 10.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 9px;
+        font-weight: 500;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 22%;
+        left: 5%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    /* Cart Without Address */
+    .shopping_cart_sub h2 {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 33.89px;
+        text-align: left;
+        color: rgb(0, 0, 0);
+    }
+    .dk_add_from {
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+        padding: 5px 9.5px;
+        background-color: #FFFFFF;
+        border: 1px solid #000000;
+        border-radius: 4px;
+    }
+    .dk_order_tracking {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 50px 20px;
+        position: relative;
+    }
+    /* Cart Without Address */
+    .dk_no_saved_addresses {
+        padding: 20px 0px 20px 35px;
+        box-shadow: 1px 6px 19px 0px #A4A4A433;
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .dk_no_saved_addresses_font h2 {
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 19.36px;
+        text-align: left;
+        color: #000000;
+    }
+    .dk_pro_caounting {
+        padding: 6px 10px 6px 10px;
+        text-align: center;
+        margin-left: 0px;
+    }
+    .dk_move_to_wishlist {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .dk_move_to_wishlist_main{
+        display: block;
+    }
+    /* edit Profile */
+    .dk_pass_edit{
+        margin-left: -10.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+    .dk_profile-form a button {
+        padding: 12px;
+        background-color: #000000;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        padding: 12px 40px;
+        text-decoration: none;
+        margin-top: 20px;
+        width: 100%;
+    }
+    .dk_profile_content_sub {
+        padding: 10px;
+    }
+     /* My Order */
+     .mv_order_nav_tabs{
+        display: block !important;
+    }
+    .mv_order_nav_tabs li{
+        margin-bottom: 10px;
+    }
+    .mv_order_date_main{
+        display: block !important;
+    }
+    .mv_order_date_main{
+        flex-direction: column;
+    }
+    .mv_order_date_heading_main{
+        margin-bottom: 5px;
+    }
+    /* <!-- Payment Methods Cards page --> */
+    .dk_crditcard {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 0.5px solid #727272;
+        padding: 30px 10px 20px 10px;
+    }
+    .dk_crdit_debit_card h3 {
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 22px;
+        margin-bottom: 0px;
+    }
+}
+@media (max-width: 375px) {
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 10%;
+        right: 18%;
+        z-index: 999;
+    }
+    .dk_watch {
+        font-size: 33px;
+        font-weight: 600;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 24%;
+        z-index: 999;
+    }
+    .dk_banner3_info{
+        position: absolute;
+        top: 62%;
+        right: 29%;
+        z-index: 999;
+    }
+    .dk_login_with_email_info h4 {
+        padding-top: 0px;
+    }
+    .dk_login_sub {
+        padding: 13px 15px;
+    }
+    /* Women’s cards */
+    .slider-image {
+        display: none;
+        width: 100%;
+        height: 100%;
+        padding: 0px 30px;
+    }
+    .thumbnails img {
+        width: 18%;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+    /* SAMSUNG GALAXY S24 ULTRA */
+    .dk_samsung_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 10.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 18%;
+        left: 35%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+
+    .dk_samsung2_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 10.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 17%;
+        left: 26%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung3_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 10.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 9px;
+        font-weight: 500;
+        color: #FFFFFF;
+        margin: 0px 0px 6px 0px !important;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 15%;
+        left: 5%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    /* Cart Without Address */
+    .dk_proceed {
+        width: 90%;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 24.2px;
+        text-align: center;
+        color: #FFFFFF;
+        background-color: #000000;
+        border-radius: 4px;
+    } 
+    /***** payment page *****/
+    /* .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 58px;
+        border-radius: 4px;
+        margin-top: 27px;
+    } */
+    .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 36px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    /* Order Confirmation page */
+    .dk_downlode_invoice_sub {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: center;
+        color: #FFFFFF;
+        padding: 13px 10px;
+        background-color: #000000;
+        border-radius: 4px;
+    }
+    /* edit Profile */
+    .dk_pass_edit{
+        margin-left: -12.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+    .dk_profile-form a button {
+        padding: 12px;
+        background-color: #000000;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        padding: 12px 28px;
+        text-decoration: none;
+        margin-top: 20px !important;
+        width: 100%;
+    }
+    .dk_order_tracking_without_line {
+        width: 95%;
+    }
+    .dk_crdit_debit_card_sub {
+        background-color: #000000;
+        border-radius: 4px;
+        font-size: 9px;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: center;
+    }
+    .dk_crdit_debit_card h3 {
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 22px;
+        margin-bottom: 0px;
+    }
+    /* Payment Methods Cards page */
+    .dk_no_saved_card{
+        display: none; 
+        text-align: center; 
+        font-weight: 500; 
+        font-size: 15px;
+        padding: 20px; 
+        height: 100%; 
+        margin-top: 40px; 
+    }
+}
+/* OTP Verification */
+@media (max-width: 320px) {
+    .dk_otp_box {
+        width: 25px;
+        height: 25px;
+        font-size: 14px;
+    }
+    .dk_banner_info{
+        text-align: center;
+        position: absolute;
+        bottom: 8%;
+        right: 12%;
+        z-index: 999;
+    }
+    .dk_watch {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .dk_banner2_info{
+        position: absolute;
+        top: 32%;
+        right: 21%;
+        z-index: 999;
+    }
+    .dk_women_collation p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 21px;
+        color: #FAFAFA;
+    }
+
+    /* SAMSUNG GALAXY S24 ULTRA */
+    .dk_samsung_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 10.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung_info p{
+        font-size: 9px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 6px 0px !important;
+    }
+    .dk_sumsung_info_postion1{
+        position: absolute;
+        top: 14%;
+        left: 34%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion1 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+
+    .dk_samsung2_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 10.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung2_info p{
+        font-size: 8px;
+        font-weight: 500;
+        line-height: 0px;
+        color: #FFFFFF;
+        margin: 0px 0px 6px 0px !important;
+    }
+    .dk_sumsung_info_postion2{
+        position: absolute;
+        top: 14%;
+        left: 24%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion2 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    .dk_samsung3_info h2{
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 10.51px;
+        color: #FFFFFF;
+        margin: 0px 0px 10px 0px !important;
+    }
+    .dk_samsung3_info p{
+        font-size: 8px;
+        font-weight: 500;
+        color: #FFFFFF;
+        margin: 0px 0px 6px 0px !important;
+    }
+    .dk_sumsung_info_postion3{
+        position: absolute;
+        top: 15%;
+        left: 5%;
+        text-align: center;
+    }
+    .dk_sumsung_info_postion3 .dk_shop_now {
+        padding: 0px 8px;
+        font-size: 8px;
+    }
+    /******* payment page ******/
+    .dk_pay_payment_button {
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24.2px;
+        color: #FFFFFF;
+        background-color: #000000;
+        padding: 10px 28px;
+        border-radius: 4px;
+        margin-top: 27px;
+    }
+    /* edit Profile */
+    .dk_pass_edit{
+        margin-left: -15.5%;  
+        display: inline;
+        vertical-align: middle
+    }
+    /* paymnt mathode  */
+    .dk_upi_id_sub span {
+        font-size: 12px;
+    }
+
+}
